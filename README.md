@@ -1,8 +1,9 @@
 Customer Shopping Behavior Analysis
-
+________________________________________
 1. Project Overview
 This project is an end-to-end data analytics case study built to demonstrate hands-on skills required for a Data Analyst role. It showcases the complete workflow from raw data to business insights using Python, MySQL, and Power BI.
 The objective is to analyze customer shopping behavior and answer key business questions related to revenue, discounts, subscriptions, products, shipping preferences, and customer segments.
+________________________________________
 2. Tools & Technologies
 Tool	Usage
 Python (Pandas)	- Data loading, cleaning, exploration
@@ -11,7 +12,7 @@ MySQL 8.0	- Relational database
 SQL Pro for MySQL -	SQL querying & database management
 SQLAlchemy + PyMySQL	- Python–MySQL connectivity
 Power BI -	Data visualization & dashboards
-
+________________________________________
 3. Dataset Description
 Dataset: Customer Shopping Behavior (CSV)
 ________________________________________
